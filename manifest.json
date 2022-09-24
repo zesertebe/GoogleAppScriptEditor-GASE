@@ -60,10 +60,6 @@
      
   ],
   "permissions": [
-    "declarativeContent",
-    "storage",
-    "tabs",
-    "activeTab"
   ],
   "host_permissions":[
   	"https://script.google.com/*"
